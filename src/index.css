@@ -1,0 +1,10 @@
+@import url('@fontsource/roboto/300.css');
+@import url('@fontsource/roboto/400.css');
+@import url('@fontsource/roboto/500.css');
+@import url('@fontsource/roboto/700.css');
+
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto';
+}
